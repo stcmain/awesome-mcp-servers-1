@@ -460,6 +460,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CAKM](https://github.com/sanyambassi/thales-cdsp-cakm-mcp-server) - MCP server for Thales CDSP CAKM integration, enabling secure key management, cryptographic operations, and compliance monitoring through AI assistants for Ms SQL and Oracle Databases.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
+- <img src="https://github.githubassets.com/favicons/favicon.svg" height="14"/> [whats-inherited-mcp](https://github.com/stcmain/whats-inherited-mcp) - Shows what a checkout you did not write tells your agent to do, before you work in it: CLAUDE.md/AGENTS.md instruction files (including nested and symlinked ones), hook commands wired to agent events, MCP servers the repo declares and which fetch code at launch, and the skills it ships. Makes no judgement and emits no risk score; read-only, with no child processes, no network, and instruction file bodies never returned.
 
 <br />
 
